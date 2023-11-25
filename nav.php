@@ -11,7 +11,7 @@
     include_once("index.php");
     ?>
 <div id="nav">   
-    <nav class="navbar navbar-expand-lg bg-light">
+    <nav class="navbar navbar-expand-lg">
     <div class="container-fluid" >
         <a class="navbar-brand" href="#">
             <img src="assets/CPSU-LOGO.png" alt="Bootstrap" width="30" height="24">
@@ -22,7 +22,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="#" id="home">Home</a>
             </li>
             <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="#">Home</a>
